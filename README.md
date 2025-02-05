@@ -13,3 +13,7 @@ Weather API (e.g., OpenWeatherMap or WeatherAPI)
 Fetch API for real-time data updates
 
 live URL: https://weatharapp.netlify.app/
+
+Have a Look:
+
+![Screenshot (764)](https://github.com/user-attachments/assets/9995d5a7-a031-49b0-9f07-86ab9eddb06d)
