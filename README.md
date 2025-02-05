@@ -11,3 +11,5 @@ Technologies Used
 HTML, CSS, JavaScript
 Weather API (e.g., OpenWeatherMap or WeatherAPI)
 Fetch API for real-time data updates
+
+live URL: https://weatharapp.netlify.app/
